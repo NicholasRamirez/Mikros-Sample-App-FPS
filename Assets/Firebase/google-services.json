@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643458991900",
+    "project_id": "mikros-sample-app-fps",
+    "storage_bucket": "mikros-sample-app-fps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643458991900:android:0790f4957eddbc0f3e5cd9",
+        "android_client_info": {
+          "package_name": "com.company.FPSAPP"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpQAc0g-IRBYVuZMl_Y7V9SB_uBVjxyk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

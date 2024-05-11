@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1367625392, guid: 0ecbfe7f495f74440aa072ef6437158d, type: 3}
+  m_Name: Mikros Settings
+  m_EditorClassIdentifier: 
+  appGameID: tg-test-663d793a393df
+  apiKeyProduction: tLHByxW2mBaIr10ubKktCL9irj4124cA
+  apiKeyQA: BFKrd6b7Hy4hPbfLA5TWiXI75A9ONU4O
+  apiKeyDevelopment: LCiROxZlJc5nkgpJUas9D0Ysg5R2pw2O
+  apiKeyType: 0
+  autoInitializeAtStart: 1
+  autoTrackSession: 1
+  autoTrackMetadata: 1
+  isEventLogging: 1
+  isEnableUserNameSpecialCharacters: 1
+  isCrashReporting: 1
+  isTrackDeviceMemory: 1
